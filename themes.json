@@ -22,7 +22,9 @@
             "background": "#272727",
             "surface": "#1e1e1e",
             "textPrimary": "#e0e0e0",
-            "textSecondary": "#b0b0b0"
+            "textSecondary": "#b0b0b0",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     },
     {
@@ -34,7 +36,9 @@
             "background": "#272727",
             "surface": "#9195A1",
             "textPrimary": "#ffffff",
-            "textSecondary": "#303032"
+            "textSecondary": "#303032",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     },
     {
@@ -46,7 +50,9 @@
             "background": "#0A1857",
             "surface": "#2FB9FB",
             "textPrimary": "#43CFFF",
-            "textSecondary": "#002276"
+            "textSecondary": "#002276",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     },
     {
@@ -58,7 +64,9 @@
             "background": "#525163",
             "surface": "#D3CEE5",
             "textPrimary": "#ffffff",
-            "textSecondary": "#303032"
+            "textSecondary": "#303032",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     },
     {
@@ -70,7 +78,9 @@
             "background": "#ffffff",
             "surface": "#f5f5f5",
             "textPrimary": "#3e2723",
-            "textSecondary": "#5d4037"
+            "textSecondary": "#5d4037",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     },
     {
@@ -82,7 +92,9 @@
             "background": "#121212",
             "surface": "#1e1e1e",
             "textPrimary": "#ffffff",
-            "textSecondary": "#00ffff"
+            "textSecondary": "#00ffff",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     },
     {
@@ -94,7 +106,9 @@
             "background": "#263238",
             "surface": "#37474f",
             "textPrimary": "#ffffff",
-            "textSecondary": "#cfd8dc"
+            "textSecondary": "#cfd8dc",
+            "highlightColor": "#5EDACA",
+            "secondaryHeaderColor": "#E5F7FF"
         }
     }
 ]
